@@ -1,4 +1,4 @@
-# Awesome Crm Dev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CRM Dev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of CRM software development resources
 
