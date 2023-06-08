@@ -1,34 +1,60 @@
 # Awesome CRM Dev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of CRM software development resources
+# Awesome Diagram Tools  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+> A curated list of diagram tools for programmers.
 
-## Contents
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. Looking for something else? Take a look at other [awesome](https://github.com/sindresorhus/awesome) lists*
 
-- [Section](#section)
-- [Another Section](#another-section)
-- [Mailing List](#mailing-list)
+*All contributions welcome. Feel free to contribute. Please read the [guidelines](contributing.md) before contributing.*
 
+## Table of Contents
+- [General Graph Drawing](#general-graph-drawing)
+- [Program Modeling](#program-modeling)
+- [Mind Mapping](#mind-mapping)
+- [Charts](#charts)
+- [Free Diagramming](#free-diagramming)
+- [Misc](#misc)
 
-## Section
+## General Graph Drawing
 
-About this section. Optional. Keep this short and focus on the list.
+- [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+- [Draw.io](https://www.draw.io)
+- [yEd](https://www.yworks.com/products/yed)
+- [Lucidchart](https://www.lucidchart.com/)
+- [Visio](https://www.microsoftstore.com/store/msusa/en_US/cat/Visio/categoryID.69407600)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Program Modeling
 
+- [Graphviz](http://www.graphviz.org)
+    - [DOT](http://www.graphviz.org/content/dot-language)
+- [PlantUML](http://plantuml.com)
+    - [Online](https://www.planttext.com)
+- [ProcessOn](http://www.processon.com/)
+- [StarUML](http://staruml.io)
+- [gliffy](https://www.gliffy.com/)
+- [Azimutt](https://azimutt.app) - Explore, analyse and document real world databases
+    - [Open Source](https://github.com/azimuttapp/azimutt)
 
-## Another Section
+## Mind Mapping
 
-### Subsection
+- [XMind](http://www.xmind.net)
+- [iThoughts](http://toketaware.com/ithoughts-osx)
+- [Mindly](http://www.mindlyapp.com)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Charts
 
-## Mailing List
+- [Highcharts](http://www.highcharts.com)
+- [Raphaël](https://dmitrybaranovskiy.github.io/raphael/)
+- [echarts](http://echarts.baidu.com)
 
-- [Vtigercrm-developers](http://vtiger-crm.2324883.n4.nabble.com/)
+## Free Diagramming
 
-## Contribute
+## Misc
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+- [D3.js](https://d3js.org)
+- [Mermaid](https://github.com/knsv/mermaid)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
