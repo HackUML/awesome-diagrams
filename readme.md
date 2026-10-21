@@ -50,6 +50,8 @@
 
 ## Free Diagramming
 
+- [PasteZap Flowchart Maker](https://pastezap.com/tools/flowchart-maker/) - Browser-based Mermaid flowchart editor with an add-step form and SVG/PNG export.
+
 ## Misc
 
 - [D3.js](https://d3js.org)
